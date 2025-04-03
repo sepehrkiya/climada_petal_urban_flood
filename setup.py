@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'climada>=6.0.1',
-    climada>=6.0.1,<7.0.0
+    climada>=6.0.1
     numpy>=1.26.4
     pandas>=2.2.3
     geopandas>=1.0.1

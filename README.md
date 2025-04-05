@@ -1,6 +1,6 @@
 # climada_petal_urban_flood
-Urban Flood Module for Climada_Version 1 (in progress)
-
+Urban Flood Module for Climada_version 1.0.1 (incomplete - in progress)
+ 
     ====================================================
 
     name='climada_petal_urban_flood',
